@@ -1,0 +1,6 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+.venv/
+.aws/
